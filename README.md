@@ -65,6 +65,7 @@ Building ViSP libraries
     $ make -j4
 **************************************************************
 Install Visp **start here after running $ ./buildVisp**
+
     $ sudo make install
 **************************************************************
 Configure the project
